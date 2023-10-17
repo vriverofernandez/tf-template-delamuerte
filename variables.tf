@@ -37,3 +37,7 @@ variable "nsg_name" {
     description = "nombre del nsg"
 }
 
+variable "security_group" {
+  
+}
+
