@@ -1,5 +1,5 @@
-name = "vn-pre-delamuerte"
-nsg_name = "nsg-name-delamuerte"
+name = "vn-pre-delamuerte-victor"
+nsg_name = "nsg-name-delamuerte-victor"
 location = "west europe"
 resource_group_name = "test-tf"
 address_space = ["10.0.0.0/16"]
